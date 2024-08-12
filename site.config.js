@@ -8,7 +8,7 @@ const CONFIG = {
     email: "busan0421@daum.net",
     linkedin: "",
     github: "",
-    instagram: "",
+    instagram: "https://www.instagram.com/seaweed_win/",
   },
   projects: [
     {
