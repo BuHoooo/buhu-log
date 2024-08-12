@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `Profile`,
-      href: "https://collective-monologue.notion.site/Profile-d3d87f9b487e459cbed3e289d0259461?pvs=4",
+      href: "https://collective-monologue.notion.site/Profile-d3d87f9b487e459cbed3e289d0259461",
     },
   ],
   // blog setting (required)
