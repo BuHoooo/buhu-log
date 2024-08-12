@@ -6,6 +6,9 @@ const CONFIG = {
     role: "유사회계사",
     bio: "회계와 세무를 사랑하고 있습니다.",
     email: "busan0421@daum.net",
+    linkedin: "",
+    github: "",
+    instagram: "",
   },
   projects: [
     {
